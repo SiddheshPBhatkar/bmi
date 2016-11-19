@@ -1,0 +1,6 @@
+{
+    "name": "laravel-package/bmi",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
